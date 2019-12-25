@@ -1,6 +1,6 @@
 ## 敏捷词汇表
 
-点击看敏捷名词地铁线路全图 <http://localhost:4000/2019/09/11/subway-map-of-agile-development-practices/>
+点击看敏捷名词地铁线路全图 <http://jackyshen.com/2019/09/11/subway-map-of-agile-development-practices/>
 
 You can use the [editor on GitHub](https://github.com/mebusw/glossary/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
