@@ -1,0 +1,2 @@
+# glossary
+glossary of Agile
